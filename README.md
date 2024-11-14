@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Thomas Herstad
 
-- I'm a mechanical engineer and software developer
-- I'm currently learning backend development in Go
+I'm a mechanical engineer who has been enjoying software development for the last year. I'm building useful projects for myself and trying to learn as much as possible along the way. Currently I'm learning PostgreSQL with Go and deploying using Docker.
+
+I'm on the lookout for a backend web development job at the moment, ideally using golang or python. If you're hiring, let's chat!
 
 <!--
 **thomasherstad/thomasherstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
