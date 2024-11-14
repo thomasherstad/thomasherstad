@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Thomas Herstad
+
+- I'm a mechanical engineer and software developer
+- I'm currently learning backend development in Go
 
 <!--
 **thomasherstad/thomasherstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
