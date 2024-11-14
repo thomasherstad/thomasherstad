@@ -1,4 +1,4 @@
-## Hi, I'm Thomas Herstad
+## 👋 Hi, I'm Thomas Herstad
 
 - I'm a mechanical engineer and software developer
 - I'm currently learning backend development in Go
