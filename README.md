@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Thomas Herstad
 
-I'm a mechanical engineer who has been enjoying software development for the last year. I'm building useful projects for myself and trying to learn as much as possible along the way. Currently I'm learning PostgreSQL with Go and deploying using Docker.
+I'm a mechanical engineer who has been enjoying software development for the last year. I'm building useful projects for myself and trying to learn as much as possible along the way. Currently I'm learning PostgreSQL with Go and CI/CD with Docker containers.
 
 I'm on the lookout for a backend web development job at the moment, ideally using golang or python. If you're hiring, let's chat!
 
